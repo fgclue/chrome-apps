@@ -1,0 +1,18 @@
+
+{
+    "name": "htmlCalc",
+    "description": "A calculator made with HTML and JavaScript!",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+    "128": "icon.svg"
+    },
+    "app": {
+    "urls": [
+    "https://"
+    ],
+    "launch": {
+    "web_url": "https://www.github.com/fgclue/fgclue"
+    }
+    }
+    }
